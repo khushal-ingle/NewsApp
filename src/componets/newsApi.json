@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": { "id": "cnn", "name": "CNN" },
+            "author": "Jennifer Korn, Donie O'Sullivan",
+            "title": "Elon Musk delays $8 'blue check' Twitter verification plan until after the midterms - CNN",
+            "description": "Twitter is delaying the rollout of account verifications for its paid Twitter Blue subscription plan until after the midterm elections, a source with knowledge of the decision confirmed to CNN.",
+            "url": "https://www.cnn.com/2022/11/06/tech/twitter-verification-delay-midterms/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221106163518-twitter-headquarters-110622.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-11-07T10:13:00Z",
+            "content": "Twitter is delaying the rollout of account verifications for its paid Twitter Blue subscription plan until after the midterm elections, a source with knowledge of the decision confirmed to CNN.\r\nThe … [+3856 chars]"
+        },
+        {
+            "source": { "id": null,"name": "YouTube"},
+            "author": null,
+            "title": "Launch of SS Sally Ride Space Station Supply Mission CRS-18 (Official NASA Broadcast) - NASA",
+            "description": null,
+            "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl6u90n7sMfI",
+            "urlToImage": null,
+            "publishedAt": "2022-11-07T10:00:02Z",
+            "content": null
+        },
+        {
+            "source": {"id": "reuters","name": "Reuters"},
+            "author": null,
+            "title": "China's trade unexpectedly shrinks as COVID curbs, global slowdown jolt demand - Reuters",
+            "description": "China's exports and imports unexpectedly contracted in October, the first simultaneous slump since May 2020, as a perfect storm of COVID curbs at home and global recession risks dented demand and further darkened the outlook for a struggling economy.",
+            "url": "https://www.reuters.com/world/china/chinas-exports-imports-shrink-oct-covid-curbs-global-slowdown-jolt-demand-2022-11-07/",
+            "urlToImage": "https://www.reuters.com/resizer/Vhkf-kolxSFi0dvdXt67gF5xFkQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/2JW2YR4BOJKMRIUABGXNT43ZZQ.jpg",
+            "publishedAt": "2022-11-07T09:56:00Z",
+            "content": "BEIJING, Nov 7 (Reuters) - China's exports and imports unexpectedly contracted in October, the first simultaneous slump since May 2020, as a perfect storm of COVID curbs at home and global recession … [+4196 chars]"
+        },
+        {
+            "source": {"id": "usa-today","name": "USA Today"},
+            "author": "Orlando Mayorquin and Clare Mulroy, USA TODAY",
+            "title": "How to play Powerball ahead of record $1.9 billion jackpot drawing - USA TODAY",
+            "description": "A record-shattering $1.9 billion jackpot is tempting those who normally pass on playing the lotter. Here is how to play Powerball.",
+            "url": "https://www.usatoday.com/story/money/2022/11/06/how-to-play-powerball-jackpot/8286972001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/11/05/NTEG/fd8ea142-46be-4566-8bf9-3827bf47fdf0-AP22307487817477.jpg?auto=webp&crop=1023,575,x0,y28&format=pjpg&width=1200",
+            "publishedAt": "2022-11-07T08:12:16Z",
+            "content": "The Powerball jackpot keeps growing. \r\nAfter no one matched the winning six numbers drawn for Saturday's $1.6 billion jackpot, the grand prize rolled over to the next drawing on Monday and ballooned … [+2284 chars]"
+        },
+        
+    ]
+}
